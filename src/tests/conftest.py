@@ -13,3 +13,4 @@ def chrome_driver_init(request):
     request.cls.driver = chrome_driver
     yield
     chrome_driver.close()
+    chrome_driver.quit()
