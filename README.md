@@ -13,6 +13,7 @@ Here i share my [Google Sheet](https://docs.google.com/spreadsheets/d/1-6pEZnCQu
 
 Here is my trello [dashboard](https://trello.com/b/cc6weeGX/exercise-1) for managing bugs life cicle, the bugs found on this excercise are in this board
 
+
 **Exercise 2**
 
 Here i share my [Google Sheet](https://docs.google.com/spreadsheets/d/12PVd7MR4gfmiA17w4d7hivY_doBeJpsenxIeH0B0AfI/edit?usp=sharing) containing:
