@@ -1,6 +1,6 @@
 
-from src.pages.contactus_page import ContactUsPage
-from src.utils.locators import Locators
+from pages.contactus_page import ContactUsPage
+from utils.locators import Locators
 
 
 class MainPage:

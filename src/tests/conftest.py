@@ -1,10 +1,9 @@
-import os
-from datetime import datetime
-
+import sys
 import pytest
 from selenium import webdriver
+sys.path.append("../../")
 
-from src.utils.path_helper import get_project_root
+from utils.path_helper import get_project_root
 
 
 @pytest.fixture(scope="class")

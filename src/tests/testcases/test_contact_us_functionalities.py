@@ -1,6 +1,6 @@
 import unittest
 import pytest
-from src.pages.main_page import MainPage
+from pages.main_page import MainPage
 
 
 @pytest.mark.usefixtures("chrome_driver_init")
