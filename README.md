@@ -1,7 +1,8 @@
 # Jobsity QA Challenge
 This project is a challenge from Jobsitity for QA Automation Engineer
 
-For more details here the exercise [qa-challenge](https://github.com/barias35/jobsity-qa-challenge/files/6852710/qa-challenge-reviewed_5e6f90ff6a001.pdf)
+For more details here the exercise [qa-challenge](https://github.com/barias35/jobsity-qa-challenge/files/6860907/qa-challenge-reviewed_5e6f90ff6a001.pdf)
+
 
 **Exercise 1**
 
