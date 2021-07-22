@@ -22,7 +22,9 @@ Here i share my [Google Sheet](https://docs.google.com/spreadsheets/d/12PVd7MR4g
 - Contact us form functionalities
 - Cart functionalities
 
-In the layouts fuctionality this was the first time i see a perfect-pixel test, i read the following [article](https://www.linkedin.com/pulse/pixel-perfection-easy-achieve-through-testing-abhay-dubey/) in order to do my best 
+In the layouts fuctionality this was the first time i see a perfect-pixel test, i read the following [article](https://www.linkedin.com/pulse/pixel-perfection-easy-achieve-through-testing-abhay-dubey/) in order to do my best
+
+For the automation suite I decided to use pytest because is simple to share a fixture like driver without develope that logic for hanndle the driver across all test
 
 Here is my trello [dashboard](https://trello.com/b/39TSZHQw/exercise-2) for managing bugs life cicle, the bugs found on this excercise are in this board
 
