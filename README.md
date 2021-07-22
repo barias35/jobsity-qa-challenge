@@ -40,9 +40,9 @@ For this exercise I used Pycharm as IDE, Pytest as Test Runner and Python as Lan
 
 If you don't have PyCharm please download [here](https://www.jetbrains.com/pycharm/download/#section=windows)
 
-First you must install python from [here](https://www.python.org/downloads/) if you do not have it already, after is installed you must validate in you cmd or in your terminal inside PyCharm you can run python and pip command if pip is not working please see this [tutorial](https://appuals.com/fix-pip-is-not-recognized-as-an-internal-or-external-command/)
+First you must install python from [here](https://www.python.org/downloads/) if you do not have it already, after is installed you must validate in your cmd or terminal inside PyCharm that you can run python and pip command if pip is not working please see this [tutorial](https://appuals.com/fix-pip-is-not-recognized-as-an-internal-or-external-command/)
 
-After both commands start working, you need to install the virtual enviroment in order to make things works, go to file then settings
+After both commands are working, you need to install the virtual enviroment in order to make things works, go to file then settings
 ![image](https://user-images.githubusercontent.com/47786738/126605427-2721f198-bda5-4597-b700-17eee0429946.png) 
 
 then go to
