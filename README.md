@@ -17,10 +17,12 @@ Here is my trello [dashboard](https://trello.com/b/cc6weeGX/exercise-1) for mana
 Here i share my [Google Sheet](https://docs.google.com/spreadsheets/d/12PVd7MR4gfmiA17w4d7hivY_doBeJpsenxIeH0B0AfI/edit?usp=sharing) containing:
 
 - Test cases list
-- Layout functionalities
+- Layout functionalities 
 - Search input functionalities
 - Contact us form functionalities
 - Cart functionalities
+
+In the layouts fuctionality this was the first time i see a perfect-pixel test, i read the following [article](https://www.linkedin.com/pulse/pixel-perfection-easy-achieve-through-testing-abhay-dubey/) in order to do my best 
 
 Here is my trello [dashboard](https://trello.com/b/39TSZHQw/exercise-2) for managing bugs life cicle, the bugs found on this excercise are in this board
 
@@ -75,9 +77,11 @@ select add new:
 
 ![image](https://user-images.githubusercontent.com/47786738/126607966-f27293a9-d957-4924-a9d3-d1b9ff3bdfe2.png)
 
-then select pytest give it a name and run it
+then select pytest give it a name 
+![image](https://user-images.githubusercontent.com/47786738/126608461-8f318289-eb68-4990-a514-f4f17d77aa9f.png)
 
+Run it
 
- enjoy it!
+Enjoy it!
 
 
