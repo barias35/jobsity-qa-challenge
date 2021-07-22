@@ -27,6 +27,7 @@ Here is my trello [dashboard](https://trello.com/b/39TSZHQw/exercise-2) for mana
 # Steps for run the automate suite
 
 **Notes**
+
 For this exercise I used Pycharm as IDE, Pytest as Test Runner and Python as Language
 
 If you don't have PyCharm please download [here](https://www.jetbrains.com/pycharm/download/#section=windows)
